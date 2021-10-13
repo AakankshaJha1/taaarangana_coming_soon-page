@@ -4,6 +4,9 @@ body {
     text-align: center;
     background-color: #f8faff;
 }
+.text{
+	margin-left:-5%;
+}
 .text a
 {
   display:block;
@@ -86,7 +89,7 @@ body {
 
 .patterns {
     align-self: auto;
-	margin-left:-20%;
+	margin-left:-5%;
 }
 
 
